@@ -3,7 +3,9 @@ ChuyenDeHeThongGiaoThongThongMinh
 
 # Xây dựng bộ phân loại nhận dạng biển báo giao thông
 Loại mạng thần kinh được sử dụng là Mạng thần kinh chuyển đổi (CNN) được ghép nối với bộ phân loại tuyến tính.
+
 Python là ngôn ngữ được sử dụng để lập trình này.
+
 Mã nguồn hoàn chỉnh có thể được tìm thấy ở đây
 
 # Môi trường cần thiết
